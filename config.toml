@@ -1,6 +1,6 @@
 baseURL = "https://bj.shoogle.net/benin"
 languageCode = "fr"
-title = "Benin"
+title = "Bénin"
 theme = "ln-base"
 
 disableKinds = ["RSS", "robotsTXT"]
