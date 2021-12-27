@@ -1,6 +1,6 @@
 ---
 title: Porto Novo
 url: /porto-novo/
-latitude: 
-longitude: 
+latitude: 6.496
+longitude: 2.62
 ---
