@@ -1,4 +1,4 @@
-baseURL = "https://bj.shoogle.net/benin"
+baseURL = "https://bj.shoogle.net/benin/"
 languageCode = "fr"
 title = "Bénin"
 theme = "ln-base"
