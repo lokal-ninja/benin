@@ -1,6 +1,6 @@
 ---
 title: Abomey-Calavi
 url: /abomey-calavi/
-latitude: 6.419
-longitude: 2.347
+latitude: 6.418
+longitude: 2.346
 ---
