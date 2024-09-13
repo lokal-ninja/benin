@@ -1,5 +1,5 @@
 ---
 title: "Premium Hortus"
 url: /abomey-calavi/premium-hortus/
-shop: Supermarkt
+shop: supermarché
 ---

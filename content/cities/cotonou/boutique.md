@@ -1,5 +1,5 @@
 ---
 title: "boutique"
 url: /cotonou/boutique/
-shop: Kramladen
+shop: magasin de variétés
 ---

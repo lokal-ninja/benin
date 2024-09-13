@@ -1,5 +1,5 @@
 ---
 title: "Tolerie"
 url: /cotonou/tolerie/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bénin guide"
 url: /natitingou/benin-guide/
-shop: Reisebüro
+shop: agence de voyage
 ---
