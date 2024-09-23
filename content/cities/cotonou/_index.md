@@ -1,6 +1,6 @@
 ---
 title: Cotonou
 url: /cotonou/
-latitude: 6.367
-longitude: 2.465
+latitude: 6.373
+longitude: 2.426
 ---
